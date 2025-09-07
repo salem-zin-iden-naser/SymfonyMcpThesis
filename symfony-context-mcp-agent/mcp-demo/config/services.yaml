@@ -1,0 +1,108 @@
+# This file is the entry point to configure your own services.
+# Files in the packages/ subdirectory configure your dependencies.
+
+# Put parameters here that don't need to change on each machine where the app is deployed
+# https://symfony.com/doc/current/best_practices.html#use-parameters-for-application-configuration
+parameters:
+
+services:
+    # default configuration for services in *this* file
+    _defaults:
+        autowire: true      # Automatically injects dependencies in your services.
+        autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+
+    # makes classes in src/ available to be used as services
+    # this creates a service per class whose id is the fully-qualified class name
+    App\:
+        resource: '../src/'
+        exclude:
+            - '../src/DependencyInjection/'
+            - '../src/Entity/'
+            - '../src/Kernel.php'
+
+    # add more service definitions when explicit configuration is needed
+    # please note that last definitions always *replace* previous ones
+
+    # TODO: MOVE TO MCP BUNDLE
+
+    _instanceof:
+        PhpLlm\McpSdk\Server\NotificationHandlerInterface:
+            tags: [ 'mcp.notification_handler' ]
+        PhpLlm\McpSdk\Server\RequestHandlerInterface:
+            tags: [ 'mcp.request_handler' ]
+
+    # Tools
+    App\Tool\MyToolCollection:
+        autowire: true
+        autoconfigure: true
+        public: true
+    App\Tool\MyToolExecutor: ~
+
+    # Tools Executors
+    App\Tool\ToolsExecutors\GetFileContentToolExecutor: ~
+    App\Tool\ToolsExecutors\GetEntitiesToolExecutor: ~
+    App\Tool\ToolsExecutors\GetProjectStructureToolExecutor: ~
+    App\Tool\ToolsExecutors\ReadDirectoryToolExecutor: ~
+    App\Tool\ToolsExecutors\SearchCodeToolExecutor: ~
+    App\Tool\ToolsExecutors\GetRoutesToolExecutor: ~
+    App\Tool\ToolsExecutors\GetUserRolesToolExecutor: ~
+    App\Tool\ToolsExecutors\GetContextualCodeAnalysisToolExecutor: ~
+    App\Tool\ToolsExecutors\AddToolExecutor:
+        autowire: true
+        autoconfigure: true
+    App\Tool\ToolsExecutors\GetControllersToolExecutor: ~
+    
+    # Tools Metadata
+    App\Tool\ToolsMetadata\GetEntitiesToolMetadata: ~
+    App\Tool\ToolsMetadata\GetFileContentToolMetadata: ~
+    App\Tool\ToolsMetadata\GetProjectStructureToolMetadata: ~
+    App\Tool\ToolsMetadata\ReadDirectoryToolMetadata: ~
+    App\Tool\ToolsMetadata\SearchCodeToolMetadata: ~
+    App\Tool\ToolsMetadata\GetRoutesToolMetadata: ~
+    App\Tool\ToolsMetadata\GetUserRolesToolMetadata: ~
+    App\Tool\ToolsMetadata\GetContextualCodeAnalysisToolMetadata: ~
+    App\Tool\ToolsMetadata\AddToolMetadata: ~
+    App\Tool\ToolsMetadata\GetControllersToolMetadata: ~
+
+    PhpLlm\McpSdk\Capability\Tool\CollectionInterface: '@App\Tool\MyToolCollection'
+    PhpLlm\McpSdk\Capability\Tool\ToolExecutorInterface: '@App\Tool\MyToolExecutor'
+    PhpLlm\McpSdk\Message\Factory: ~
+    PhpLlm\McpSdk\Server: ~
+    PhpLlm\McpSdk\Server\JsonRpcHandler:
+        $notificationHandlers: !tagged mcp.notification_handler
+        $requestHandlers: !tagged mcp.request_handler
+    PhpLlm\McpSdk\Server\NotificationHandler\InitializedHandler: ~
+    PhpLlm\McpSdk\Server\Transport\Sse\Store\CachePoolStore: ~
+    PhpLlm\McpSdk\Server\RequestHandler\InitializeHandler: ~
+    PhpLlm\McpSdk\Server\RequestHandler\PingHandler: ~
+    PhpLlm\McpSdk\Server\RequestHandler\ToolCallHandler: ~
+    PhpLlm\McpSdk\Server\RequestHandler\ToolListHandler: ~
+
+    # MCP <-> LLM Bridge Services
+    App\Client\OllamaClient:
+        arguments:
+            $httpClient: '@http_client'
+            $baseUrl: '%env(OLLAMA_BASE_URL)%'
+
+    App\Bridge\MCPContextCollector:
+        arguments:
+            $toolExecutor: '@App\Tool\MyToolExecutor'
+
+    App\Bridge\PromptBuilder: ~
+
+    App\Bridge\ResponseProcessor: ~
+
+    App\Bridge\LLMBridgeService:
+        arguments:
+            $ollamaClient: '@App\Client\OllamaClient'
+            $contextCollector: '@App\Bridge\MCPContextCollector'
+            $promptBuilder: '@App\Bridge\PromptBuilder'
+            $responseProcessor: '@App\Bridge\ResponseProcessor'
+
+    # Implementing Comparison Tools
+    App\Evaluation\TestScenarioRepository:
+        arguments:
+            $configPath: '%kernel.project_dir%/config/test_scenarios.yaml'
+
+    App\Evaluation\TestScenarioRunner: ~
+    App\Controller\EvaluationController: ~

@@ -1,0 +1,28 @@
+scenarios:
+  blog_crud_controller:
+    category: controller
+    prompt: "Create a complete CRUD controller for managing BlogPost entities"
+    task_type: controller
+    relevant_tools: [Get Routes, Get Controllers, Get Entities]
+    expected_files: ["BlogPostController.php"]
+    evaluation_criteria: ["route_consistency", "validation", "structure"]
+    complexity_level: medium
+
+  product_api_controller:
+    category: api
+    prompt: "Create a JSON API controller for Product with authentication"
+    task_type: controller
+    relevant_tools: [Get Routes, Get Controllers, Get Entities]
+    expected_files: ["ProductApiController.php"]
+    evaluation_criteria: ["auth", "json_response", "api_style"]
+    complexity_level: high
+
+  add_like_feature:
+    category: feature
+    prompt: "Add the ability to like both posts and comments in a Symfony app which has a post and comment entity."
+    task_type: feature
+    relevant_tools: [Get Entities, Get Routes]
+    expected_files: ["Post.php", "Comment.php", "PostController.php", "CommentController.php"]
+    evaluation_criteria: ["entity_update", "endpoint_creation", "correct_relationships"]
+    complexity_level: medium
+

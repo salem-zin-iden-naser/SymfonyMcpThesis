@@ -1,0 +1,1023 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salem\\poc_2\\mcp-demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\test-clock-call.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test-clock-call.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Clock.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Clock.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\services.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\services.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\pools\\app\\8ukAhtoblZ\\6\\3\\GDnyq7VBEAa\u002BabobiXIg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\pools\\app\\8ukAhtoblZ\\6\\3\\GDnyq7VBEAa\u002BabobiXIg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerXYZmV41\\App_KernelDevDebugContainer.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\ContainerXYZmV41\\App_KernelDevDebugContainer.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Wikipedia.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Wikipedia.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\App_KernelDevDebugContainer.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\App_KernelDevDebugContainer.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\App_KernelDevDebugContainerCompiler.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\App_KernelDevDebugContainerCompiler.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\BaseRequestHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\BaseRequestHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\symfony\\dependency-injection\\Compiler\\ResolveInstanceofConditionalsPass.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\symfony\\dependency-injection\\Compiler\\ResolveInstanceofConditionalsPass.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\Container9WRrjzq\\getToolCallHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\Container9WRrjzq\\getToolCallHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\Container9WRrjzq\\getToolListHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\Container9WRrjzq\\getToolListHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getJsonRpcHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\ContainerMQ7axxV\\getJsonRpcHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getToolCallHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\ContainerMQ7axxV\\getToolCallHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getToolListHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:var\\cache\\dev\\ContainerMQ7axxV\\getToolListHandlerService.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\symfony\\http-kernel\\HttpCache\\SubRequestHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\symfony\\http-kernel\\HttpCache\\SubRequestHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolListHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolListHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolCallHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolCallHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceReadHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceReadHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceListHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceListHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptListHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptListHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptGetHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptGetHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PingHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PingHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\InitializeHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\InitializeHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandlerInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandlerInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandlerInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandlerInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\BaseNotificationHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\BaseNotificationHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\InitializedHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\InitializedHandler.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\ToolChain.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\ToolChain.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\ResourceChain.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\ResourceChain.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\PromptChain.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\PromptChain.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolExecutorInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolExecutorInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCollectionInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCollectionInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCallResult.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCallResult.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCall.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCall.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\CollectionInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\CollectionInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\IdentifierInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\IdentifierInterface.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\TraceablePlatform.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\TraceablePlatform.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\DataCollector.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\DataCollector.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\LlmChainBundle.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\llm-chain-bundle\\src\\LlmChainBundle.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\llm-chain\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\composer.lock||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:composer.lock||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\php-llm\\mcp-sdk\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Controller\\McpController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controller\\McpController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Command\\McpCommand.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Command\\McpCommand.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\routes.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\bundles.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\bundles.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\preload.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\preload.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes\\web_profiler.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\routes\\web_profiler.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes\\framework.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\routes\\framework.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\web_profiler.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\packages\\web_profiler.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\twig.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\packages\\twig.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\routing.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\packages\\routing.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\llm_chain.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\packages\\llm_chain.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salem\\poc_2\\mcp-demo\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GDnyq7VBEAa\u002BabobiXIg",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\pools\\app\\8ukAhtoblZ\\6\\3\\GDnyq7VBEAa\u002BabobiXIg",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\pools\\app\\8ukAhtoblZ\\6\\3\\GDnyq7VBEAa\u002BabobiXIg",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\pools\\app\\8ukAhtoblZ\\6\\3\\GDnyq7VBEAa\u002BabobiXIg",
+              "RelativeToolTip": "var\\cache\\dev\\pools\\app\\8ukAhtoblZ\\6\\3\\GDnyq7VBEAa\u002BabobiXIg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T14:55:21.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App_KernelDevDebugContainer.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerXYZmV41\\App_KernelDevDebugContainer.php",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\ContainerXYZmV41\\App_KernelDevDebugContainer.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerXYZmV41\\App_KernelDevDebugContainer.php",
+              "RelativeToolTip": "var\\cache\\dev\\ContainerXYZmV41\\App_KernelDevDebugContainer.php",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAhwBICAAAtAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:55:14.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test-clock-call.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\test-clock-call.php",
+              "RelativeDocumentMoniker": "test-clock-call.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\test-clock-call.php",
+              "RelativeToolTip": "test-clock-call.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:51:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clock.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Clock.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Clock.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Clock.php",
+              "RelativeToolTip": "vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Clock.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:48:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "services.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\services.yaml",
+              "RelativeDocumentMoniker": "config\\services.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\services.yaml",
+              "RelativeToolTip": "config\\services.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T10:46:56.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wikipedia.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Wikipedia.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Wikipedia.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Wikipedia.php",
+              "RelativeToolTip": "vendor\\php-llm\\llm-chain\\src\\Chain\\ToolBox\\Tool\\Wikipedia.php",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:47:37.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App_KernelDevDebugContainerCompiler.log",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\App_KernelDevDebugContainerCompiler.log",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\App_KernelDevDebugContainerCompiler.log",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\App_KernelDevDebugContainerCompiler.log",
+              "RelativeToolTip": "var\\cache\\dev\\App_KernelDevDebugContainerCompiler.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T14:31:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App_KernelDevDebugContainer.xml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\App_KernelDevDebugContainer.xml",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\App_KernelDevDebugContainer.xml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\App_KernelDevDebugContainer.xml",
+              "RelativeToolTip": "var\\cache\\dev\\App_KernelDevDebugContainer.xml",
+              "ViewState": "AgIAAGMKAAAAAAAAAAAhwHEKAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-12T14:30:13.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRequestHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\BaseRequestHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\BaseRequestHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\BaseRequestHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\BaseRequestHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:05:29.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Server.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:06:19.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResolveInstanceofConditionalsPass.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\symfony\\dependency-injection\\Compiler\\ResolveInstanceofConditionalsPass.php",
+              "RelativeDocumentMoniker": "vendor\\symfony\\dependency-injection\\Compiler\\ResolveInstanceofConditionalsPass.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\symfony\\dependency-injection\\Compiler\\ResolveInstanceofConditionalsPass.php",
+              "RelativeToolTip": "vendor\\symfony\\dependency-injection\\Compiler\\ResolveInstanceofConditionalsPass.php",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:27:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "getToolCallHandlerService.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\Container9WRrjzq\\getToolCallHandlerService.php",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\Container9WRrjzq\\getToolCallHandlerService.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\Container9WRrjzq\\getToolCallHandlerService.php",
+              "RelativeToolTip": "var\\cache\\dev\\Container9WRrjzq\\getToolCallHandlerService.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:24:36.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "getToolListHandlerService.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\Container9WRrjzq\\getToolListHandlerService.php",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\Container9WRrjzq\\getToolListHandlerService.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\Container9WRrjzq\\getToolListHandlerService.php*",
+              "RelativeToolTip": "var\\cache\\dev\\Container9WRrjzq\\getToolListHandlerService.php*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:24:00.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "getJsonRpcHandlerService.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getJsonRpcHandlerService.php",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\ContainerMQ7axxV\\getJsonRpcHandlerService.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getJsonRpcHandlerService.php",
+              "RelativeToolTip": "var\\cache\\dev\\ContainerMQ7axxV\\getJsonRpcHandlerService.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:22:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "getToolCallHandlerService.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getToolCallHandlerService.php",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\ContainerMQ7axxV\\getToolCallHandlerService.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getToolCallHandlerService.php",
+              "RelativeToolTip": "var\\cache\\dev\\ContainerMQ7axxV\\getToolCallHandlerService.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:21:34.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "getToolListHandlerService.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getToolListHandlerService.php",
+              "RelativeDocumentMoniker": "var\\cache\\dev\\ContainerMQ7axxV\\getToolListHandlerService.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\var\\cache\\dev\\ContainerMQ7axxV\\getToolListHandlerService.php",
+              "RelativeToolTip": "var\\cache\\dev\\ContainerMQ7axxV\\getToolListHandlerService.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:18:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubRequestHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\symfony\\http-kernel\\HttpCache\\SubRequestHandler.php",
+              "RelativeDocumentMoniker": "vendor\\symfony\\http-kernel\\HttpCache\\SubRequestHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\symfony\\http-kernel\\HttpCache\\SubRequestHandler.php",
+              "RelativeToolTip": "vendor\\symfony\\http-kernel\\HttpCache\\SubRequestHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:16:15.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToolListHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolListHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolListHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolListHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolListHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:16:05.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ToolCallHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolCallHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolCallHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolCallHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ToolCallHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:15:58.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResourceReadHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceReadHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceReadHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceReadHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceReadHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:15:52.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PromptGetHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptGetHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptGetHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptGetHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptGetHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:14:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PingHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PingHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PingHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PingHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PingHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:14:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PromptListHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptListHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptListHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptListHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\PromptListHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:14:47.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResourceListHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceListHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceListHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceListHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\ResourceListHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:14:49.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InitializeHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\InitializeHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\InitializeHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\InitializeHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandler\\InitializeHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:14:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RequestHandlerInterface.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandlerInterface.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandlerInterface.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandlerInterface.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\RequestHandlerInterface.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:06:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotificationHandlerInterface.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandlerInterface.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandlerInterface.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandlerInterface.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandlerInterface.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:05:48.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseNotificationHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\BaseNotificationHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\BaseNotificationHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\BaseNotificationHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\BaseNotificationHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:04:59.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InitializedHandler.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\InitializedHandler.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\InitializedHandler.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\InitializedHandler.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Server\\NotificationHandler\\InitializedHandler.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:04:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ToolChain.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\ToolChain.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\ToolChain.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\ToolChain.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\ToolChain.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:56.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResourceChain.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\ResourceChain.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\ResourceChain.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\ResourceChain.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\ResourceChain.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:55.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PromptChain.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\PromptChain.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\PromptChain.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\PromptChain.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\PromptChain.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:51.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ToolExecutorInterface.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolExecutorInterface.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolExecutorInterface.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolExecutorInterface.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolExecutorInterface.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:50.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ToolCollectionInterface.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCollectionInterface.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCollectionInterface.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCollectionInterface.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCollectionInterface.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:48.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ToolCallResult.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCallResult.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCallResult.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCallResult.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCallResult.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:47.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CollectionInterface.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\CollectionInterface.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\CollectionInterface.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\CollectionInterface.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\CollectionInterface.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:44.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IdentifierInterface.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\IdentifierInterface.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\IdentifierInterface.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\IdentifierInterface.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\IdentifierInterface.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:42.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ToolCall.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCall.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCall.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCall.php",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\src\\Capability\\Tool\\ToolCall.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:03:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TraceablePlatform.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\TraceablePlatform.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\TraceablePlatform.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\TraceablePlatform.php",
+              "RelativeToolTip": "vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\TraceablePlatform.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:02:08.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataCollector.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\DataCollector.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\DataCollector.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\DataCollector.php",
+              "RelativeToolTip": "vendor\\php-llm\\llm-chain-bundle\\src\\Profiler\\DataCollector.php",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:01:44.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LlmChainBundle.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\LlmChainBundle.php",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\llm-chain-bundle\\src\\LlmChainBundle.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain-bundle\\src\\LlmChainBundle.php",
+              "RelativeToolTip": "vendor\\php-llm\\llm-chain-bundle\\src\\LlmChainBundle.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T14:01:30.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "composer.json",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\composer.json",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\llm-chain\\composer.json",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\llm-chain\\composer.json",
+              "RelativeToolTip": "vendor\\php-llm\\llm-chain\\composer.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T14:01:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T13:56:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "composer.json",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\composer.json",
+              "RelativeDocumentMoniker": "composer.json",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\composer.json",
+              "RelativeToolTip": "composer.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T13:56:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "composer.lock",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\composer.lock",
+              "RelativeDocumentMoniker": "composer.lock",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\composer.lock",
+              "RelativeToolTip": "composer.lock",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T13:55:59.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "composer.json",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\composer.json",
+              "RelativeDocumentMoniker": "vendor\\php-llm\\mcp-sdk\\composer.json",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\vendor\\php-llm\\mcp-sdk\\composer.json",
+              "RelativeToolTip": "vendor\\php-llm\\mcp-sdk\\composer.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T13:55:41.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Kernel.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Kernel.php",
+              "RelativeDocumentMoniker": "src\\Kernel.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Kernel.php",
+              "RelativeToolTip": "src\\Kernel.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T13:55:20.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "bundles.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\bundles.php",
+              "RelativeDocumentMoniker": "config\\bundles.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\bundles.php",
+              "RelativeToolTip": "config\\bundles.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T12:26:53.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "preload.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\preload.php",
+              "RelativeDocumentMoniker": "config\\preload.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\preload.php",
+              "RelativeToolTip": "config\\preload.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T12:27:13.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "twig.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\twig.yaml",
+              "RelativeDocumentMoniker": "config\\packages\\twig.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\twig.yaml",
+              "RelativeToolTip": "config\\packages\\twig.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T12:26:37.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "routes.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes.yaml",
+              "RelativeDocumentMoniker": "config\\routes.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes.yaml",
+              "RelativeToolTip": "config\\routes.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T10:46:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "McpCommand.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Command\\McpCommand.php",
+              "RelativeDocumentMoniker": "src\\Command\\McpCommand.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Command\\McpCommand.php",
+              "RelativeToolTip": "src\\Command\\McpCommand.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T10:47:51.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "McpController.php",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Controller\\McpController.php",
+              "RelativeDocumentMoniker": "src\\Controller\\McpController.php",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\src\\Controller\\McpController.php",
+              "RelativeToolTip": "src\\Controller\\McpController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-06-12T10:44:46.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "web_profiler.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\web_profiler.yaml",
+              "RelativeDocumentMoniker": "config\\packages\\web_profiler.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\web_profiler.yaml",
+              "RelativeToolTip": "config\\packages\\web_profiler.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T12:26:40.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "framework.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes\\framework.yaml",
+              "RelativeDocumentMoniker": "config\\routes\\framework.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes\\framework.yaml",
+              "RelativeToolTip": "config\\routes\\framework.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T12:26:47.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "web_profiler.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes\\web_profiler.yaml",
+              "RelativeDocumentMoniker": "config\\routes\\web_profiler.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\routes\\web_profiler.yaml",
+              "RelativeToolTip": "config\\routes\\web_profiler.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T12:26:51.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "routing.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\routing.yaml",
+              "RelativeDocumentMoniker": "config\\packages\\routing.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\routing.yaml",
+              "RelativeToolTip": "config\\packages\\routing.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T10:46:42.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "llm_chain.yaml",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\llm_chain.yaml",
+              "RelativeDocumentMoniker": "config\\packages\\llm_chain.yaml",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\config\\packages\\llm_chain.yaml",
+              "RelativeToolTip": "config\\packages\\llm_chain.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T10:46:37.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\salem\\poc_2\\mcp-demo\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\salem\\poc_2\\mcp-demo\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-12T10:44:28.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

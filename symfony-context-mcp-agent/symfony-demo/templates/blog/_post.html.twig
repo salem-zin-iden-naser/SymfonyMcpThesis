@@ -1,0 +1,51 @@
+<article class="post">
+    <h2>
+        <a href="{{ path('blog_post', {slug: post.slug}) }}">
+            {{ post.title }}
+        </a>
+    </h2>
+
+    <p class="post-metadata">
+        <span class="metadata"><twig:ux:icon name="tabler:calendar-month"/> {{ post.publishedAt|format_datetime('long', 'medium', '', 'UTC') }}</span>
+        <span class="metadata"><twig:ux:icon name="tabler:user"/> {{ post.author.fullName }}</span>
+    </p>
+
+    <p>{{ post.summary }}</p>
+
+    {{ include('blog/_post_tags.html.twig') }}
+
+    {# --- Like UI (list page) --- #}
+    <div class="post-likes" style="margin-top: .5rem;">
+        {% set liked_by_me = app.user ? post.likes|filter(l => l.user == app.user)|length > 0 : false %}
+        <span class="metadata">
+            <twig:ux:icon name="tabler:thumb-up"/>
+            <strong>{{ post.likes|length }}</strong>
+            {{ post.likes|length == 1 ? 'Like' : 'Likes' }}
+        </span>
+
+        {% if is_granted('IS_AUTHENTICATED_FULLY') %}
+            {% if liked_by_me %}
+                <form action="{{ path('unlike_post', {id: post.id, _locale: app.request.locale}) }}"
+                      method="post" style="display:inline">
+                    <input type="hidden" name="_token" value="{{ csrf_token('unlike_post' ~ post.id) }}">
+                    <button class="btn btn-sm btn-outline-secondary" type="submit">
+                        <twig:ux:icon name="tabler:thumb-down"/> Unlike
+                    </button>
+                </form>
+            {% else %}
+                <form action="{{ path('like_post', {id: post.id, _locale: app.request.locale}) }}"
+                      method="post" style="display:inline">
+                    <input type="hidden" name="_token" value="{{ csrf_token('like_post' ~ post.id) }}">
+                    <button class="btn btn-sm btn-outline-primary" type="submit">
+                        <twig:ux:icon name="tabler:thumb-up"/> Like
+                    </button>
+                </form>
+            {% endif %}
+        {% else %}
+            <a class="btn btn-sm btn-outline-primary"
+               href="{{ path('security_login', {'redirect_to': app.request.pathInfo}) }}">
+                <twig:ux:icon name="tabler:login"/> {{ 'action.sign_in'|trans }}
+            </a>
+        {% endif %}
+    </div>
+</article>
